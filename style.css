@@ -1,0 +1,16 @@
+div{
+    margin-top: 10px;
+
+}
+form{
+   
+    border: 3px solid black;
+    border-radius: 6px;
+    font-family: cursive;
+   width:fit-content;
+   margin-top:20%;
+   margin-left:20%;
+   box-shadow: 10px 10px 10px 10px ;
+
+   
+}
